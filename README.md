@@ -20,11 +20,6 @@
 - Company representatives can view a list of job applicants and can contact them, initiative an interview, or perform some other action related to their post.
 - Registered users should be able to search for jobs and filter the results based on location, required skills, salary, experience level, etc
 
-## Screenshots
-
-#### Sign In
-
-
 ## Tech Stack
 
 - [React](https://react.dev/) - Frontend UI Library

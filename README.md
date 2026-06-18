@@ -118,14 +118,4 @@ yarn run dev
 
 Visit [http://localhost:5137](http://localhost:5137) in your browser.
 
-## Contributing
 
-Job HUnt is an open-source project and we welcome contributions from the community.
-
-If you'd like to contribute, please fork the repository and make changes as you'd like. Pull requests are warmly welcome.
-
-### Our Contributors ✨
-
-<a href="https://github.com/drbarzaga/job-portal/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=drbarzaga/job-portal" />
-</a>

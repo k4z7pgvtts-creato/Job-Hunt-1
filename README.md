@@ -24,19 +24,6 @@
 
 #### Sign In
 
-<img width="1512" alt="image" src="https://github.com/drbarzaga/JobPortal/assets/12173976/676ddd8e-f9bb-4fc1-810f-fcde07817348">
-
-#### Sign Up
-
-<img width="1512" alt="image" src="https://github.com/drbarzaga/JobPortal/assets/12173976/818dc01f-7915-42da-914c-2b011bcbfa60">
-
-#### Forgot Password
-
-<img width="1512" alt="image" src="https://github.com/drbarzaga/JobPortal/assets/12173976/362e5330-e25b-4591-a1f1-20c87a7d4836">
-
-#### Home Page as Guest
-
-<img width="1512" alt="image" src="https://github.com/drbarzaga/JobPortal/assets/12173976/42526467-2b0a-4138-b0aa-f546d4735004">
 
 ## Tech Stack
 

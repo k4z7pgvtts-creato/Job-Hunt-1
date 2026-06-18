@@ -20,24 +20,6 @@
 - Company representatives can view a list of job applicants and can contact them, initiative an interview, or perform some other action related to their post.
 - Registered users should be able to search for jobs and filter the results based on location, required skills, salary, experience level, etc
 
-## Screenshots
-
-#### Sign In
-
-<img width="1512" alt="image" src="https://github.com/drbarzaga/JobPortal/assets/12173976/676ddd8e-f9bb-4fc1-810f-fcde07817348">
-
-#### Sign Up
-
-<img width="1512" alt="image" src="https://github.com/drbarzaga/JobPortal/assets/12173976/818dc01f-7915-42da-914c-2b011bcbfa60">
-
-#### Forgot Password
-
-<img width="1512" alt="image" src="https://github.com/drbarzaga/JobPortal/assets/12173976/362e5330-e25b-4591-a1f1-20c87a7d4836">
-
-#### Home Page as Guest
-
-<img width="1512" alt="image" src="https://github.com/drbarzaga/JobPortal/assets/12173976/42526467-2b0a-4138-b0aa-f546d4735004">
-
 ## Tech Stack
 
 - [React](https://react.dev/) - Frontend UI Library

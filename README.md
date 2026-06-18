@@ -32,6 +32,7 @@
 - [Axios](https://axios-http.com/) - Promise based Http Client
 - [Formik](https://formik.org/) - Form handler
 - [Zustand](https://zustand-demo.pmnd.rs/) - State Management
+- [Framework] (https://www.python.org/) - flask 
 
 ## Getting Started
 
